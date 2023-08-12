@@ -159,14 +159,9 @@
         height="40"
       />
     </a>
-
-    <a href="hhttps://www.javascript.com/" target="_blank" rel="noreferrer"  title="JavaScript">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-        alt="javascript"
-        width="40"
-        height="40"
-      />
-    </a> 
-    
  </p>
+ 
+   ![image](https://github.com/Ashoman/Ashoman/assets/40643592/fdaed6c0-e509-404a-bad4-cf8115208ca4)
+
+    
+ 
