@@ -6,3 +6,4 @@
 - 👨‍💻 All of my projects are available at (https://github.com/Ashoman)
 
 - 📫 How to reach me **shoman450@gmail.com**
+[![LinkedIn](https://github.com/omarmfathy219/omarmfathy219/blob/master/linkedin.png)](https://www.linkedin.com/in/adel-shoman-451689131/)
