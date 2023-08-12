@@ -160,7 +160,10 @@
       />
     </a>
  </p>
- ![DevOps-Steps-1-min](https://github.com/Ashoman/Ashoman/assets/40643592/29aa712c-0544-429c-8c2b-4edc18f6f9d0)
+
+
+![DevOps-Steps-1-min](https://github.com/Ashoman/Ashoman/assets/40643592/7d492cc0-f15d-4667-afff-e2460f36ae5d.gif)
+
 
 
     
