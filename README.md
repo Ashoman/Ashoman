@@ -160,8 +160,8 @@
       />
     </a>
  </p>
- 
-   ![image](https://github.com/Ashoman/Ashoman/assets/40643592/fdaed6c0-e509-404a-bad4-cf8115208ca4)
+ ![DevOps-Steps-1-min](https://github.com/Ashoman/Ashoman/assets/40643592/29aa712c-0544-429c-8c2b-4edc18f6f9d0)
+
 
     
  
