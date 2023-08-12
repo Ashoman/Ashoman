@@ -142,22 +142,7 @@
         height="40"
       />
     </a>
-     <a href="https://grafana.com" target="_blank" rel="noreferrer"  title="Grafana">
-      <img
-        src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg"
-        alt="Grafana"
-        width="40"
-        height="40"
-      />
-    </a>
- <a href="https://helm.sh" target="_blank" rel="noreferrer"  title="Helm">
-      <img
-        src="https://www.vectorlogo.zone/logos/helmsh/helmsh-icon.svg"
-        alt="Helm"
-        width="40"
-        height="40"
-      />
-    </a>
+   
 <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"  title="mysql">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg"
@@ -174,14 +159,7 @@
         height="40"
       />
     </a>
-    <a href="https://www.w3.org/Style/CSS" target="_blank" rel="noreferrer"  title="css">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg"
-        alt="css"
-        width="40"
-        height="40"
-      />
-    </a>
+
     <a href="hhttps://www.javascript.com/" target="_blank" rel="noreferrer"  title="JavaScript">
       <img
         src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
@@ -190,12 +168,5 @@
         height="40"
       />
     </a> 
-    <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"  title="bootstrap">
-      <img
-        src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg"
-        alt="bootstrap"
-        width="40"
-        height="40"
-      />
-    </a> 
+    
  </p>
